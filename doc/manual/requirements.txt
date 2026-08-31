@@ -6,3 +6,4 @@ sphinx-rtd-theme
 sphinx-notfound-page
 requests
 sphinx-substitution-extensions==2024.10.17
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
